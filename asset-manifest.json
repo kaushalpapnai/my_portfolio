@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/repository-name/static/css/main.0a5ede1e.css",
+    "main.js": "/repository-name/static/js/main.759e611c.js",
+    "static/js/453.69f3745b.chunk.js": "/repository-name/static/js/453.69f3745b.chunk.js",
+    "static/media/homeImage.png": "/repository-name/static/media/homeImage.3d95f6590f70693b6ba6.png",
+    "static/media/contactusbg.png": "/repository-name/static/media/contactusbg.763a3c4a9285409abd28.png",
+    "static/media/react.png": "/repository-name/static/media/react.49b190cfcec53572a139.png",
+    "static/media/wells.png": "/repository-name/static/media/wells.4ce6fb536765dd3517d3.png",
+    "static/media/robo.png": "/repository-name/static/media/robo.da55497fb34f0d883d69.png",
+    "static/media/book.png": "/repository-name/static/media/book.803e11196b58a40a7a29.png",
+    "static/media/phone.png": "/repository-name/static/media/phone.4f979ce3daf3b3a78f40.png",
+    "static/media/android.png": "/repository-name/static/media/android.0091c33eba408b2cb3b7.png",
+    "static/media/laptop.png": "/repository-name/static/media/laptop.ad552bd57dde4e9e1134.png",
+    "static/media/skill.png": "/repository-name/static/media/skill.b9c82d5884078609fc2b.png",
+    "static/media/gitlab.jpg": "/repository-name/static/media/gitlab.2b831a84b522ae73188f.jpg",
+    "static/media/aflac.png": "/repository-name/static/media/aflac.e51022c4fec267fd0e2e.png",
+    "static/media/cognizantLogo.png": "/repository-name/static/media/cognizantLogo.a6cefc1af8dcaaad1291.png",
+    "static/media/firebase.png": "/repository-name/static/media/firebase.6b405206252ff65ef584.png",
+    "index.html": "/repository-name/index.html",
+    "static/media/wave.svg": "/repository-name/static/media/wave.e42ddec972c9ec214abc0ac6e8439ee4.svg",
+    "main.0a5ede1e.css.map": "/repository-name/static/css/main.0a5ede1e.css.map",
+    "main.759e611c.js.map": "/repository-name/static/js/main.759e611c.js.map",
+    "453.69f3745b.chunk.js.map": "/repository-name/static/js/453.69f3745b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a5ede1e.css",
+    "static/js/main.759e611c.js"
+  ]
+}
