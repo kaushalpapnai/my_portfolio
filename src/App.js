@@ -1,5 +1,8 @@
 import './App.css';
 import AboutMe from './Components/AboutMe.js';
+import Companies from './Components/Companies.js';
+import ContactUs from './Components/ContactUs.js';
+import Footer from './Components/Footer.js';
 import Home from './Components/Home.js';
 import NavBar from './Components/NavBar.js';
 import Portfolio from './Components/Portfolio.js';
@@ -13,6 +16,10 @@ function App() {
       <AboutMe/>
       <Skills/>
       <Portfolio/>
+      <Companies/>
+      <ContactUs/>
+      <Footer/>
+      
     </div>
   );
 }
